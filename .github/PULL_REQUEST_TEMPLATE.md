@@ -10,7 +10,7 @@
   - [ ] The code coverage for the verified source code is sufficient
   - [ ] The static code analysis does not reveal problems
 
-- [ ] Adhereance to Coding Guidelines:
+- [ ] Adherence to Coding Guidelines:
   - [ ] Your code is formatted according to coding guidelines
   - [ ] Your code does not contain hard-coded paths or labels
   - [ ] Numbers, currencies and date/time are localized
