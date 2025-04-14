@@ -1,4 +1,8 @@
-Please make sure:
+## Summary of the changes:
+
+:memo: 
+
+## Checklist:
 
 - [ ] Verification
   - [ ] Your code builds clean without any errors or warnings
@@ -17,4 +21,4 @@ Please make sure:
   - [ ] It is possible to understand your code without explanations
   - [ ] Your code reflects the architecture and the specification
 
-- [ ] The change of code is authorized (e.g., there is a ticket)
+- [ ] The change of code is authorized (e.g., there is a ticket linked)
