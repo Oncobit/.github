@@ -1,8 +1,8 @@
-## Summary of the changes:
+## Change Summary:
 
 :memo: 
 
-## Checklist:
+## Code Review Checklist:
 
 - [ ] Verification
   - [ ] Your code builds clean without any errors or warnings
@@ -14,7 +14,7 @@
   - [ ] Your code is formatted according to coding guidelines
   - [ ] Your code does not contain hard-coded paths or labels
   - [ ] Numbers, currencies and date/time are localized
-  - [ ] Your code handles errorss as close and specific as possible
+  - [ ] Your code handles errors as close and specific as possible
      
 - [ ] Documentation
   - [ ] All public methods and attributes are documented
