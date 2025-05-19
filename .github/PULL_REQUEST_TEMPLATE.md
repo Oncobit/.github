@@ -1,26 +1,41 @@
 ## Change Summary:
 
-:memo: 
+:memo: _Provide a brief summary of what was changed and why._
 
-## Code Review Checklist:
+---
 
-|  | Author | Reviewer |
-| :--- | :--- | :--- |
-| **Verification** |
-| Your code builds clean without any errors or warnings | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| You have added unit tests and integrated them in test suite | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| The code coverage for the verified source code is sufficient | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| The static code analysis does not reveal problems | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| **Adherence to Coding Guidelines** |
-| Your code is formatted according to coding guidelines | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| Your code does not contain hard-coded paths or labels | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| Numbers, currencies and date/time are localized | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| Your code handles errors as close and specific as possible | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| **Documentation** |
-| All public methods and attributes are documented | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| It is possible to understand your code without explanations | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| SOUPS are documented | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| Your code reflects the architecture and the specification | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
-| **Ticketing** |
-| There is a ticket linked | :link: | <ul><li>- [ ] ok</li></ul> |
-| The change of code is authorized | <ul><li>- [ ] ok</li><li>- [ ] na</li></ul> | <ul><li>- [ ] ok</li></ul> |
+## Author Checklist
+
+### Verification
+- [ ] Code builds clean without any errors or warnings
+- [ ] Unit tests are added and integrated in the test suite
+- [ ] Code coverage is sufficient
+- [ ] Static code analysis does not reveal problems
+
+### Coding Guidelines
+- [ ] Code is formatted according to coding guidelines
+- [ ] No hard-coded paths or labels
+- [ ] Numbers, currencies, and date/time are localized
+- [ ] Error handling is specific and close to source
+
+### Documentation
+- [ ] All public methods and attributes are documented
+- [ ] Code is understandable without needing external explanation
+- [ ] SOUPs (Software of Unknown Provenance) are documented
+- [ ] Code reflects the architecture and specifications
+
+### Ticketing
+- [ ] Ticket is linked :link:_______
+- [ ] Code change is authorized
+
+---
+
+## Reviewer Checklist
+
+- [ ] Code builds and runs as expected
+- [ ] Unit tests cover critical paths and edge cases
+- [ ] Code adheres to formatting and best practices
+- [ ] Documentation is complete and understandable
+- [ ] Ticket and authorization are valid and verified
+
+---
