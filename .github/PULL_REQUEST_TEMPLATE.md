@@ -23,6 +23,8 @@
 - [ ] Code is understandable without needing external explanation
 - [ ] SOUPs (Software of Unknown Provenance) are documented
 - [ ] Code reflects the architecture and specifications
+- [ ] Traceability matrix is up to date (if applicable)
+- [ ] Risk management file is up to date (if applicable)
 
 ### Ticketing
 - [ ] Ticket is linked :link:_______
